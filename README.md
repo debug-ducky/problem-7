@@ -1,4 +1,4 @@
-# Problem 6
+# Problem 7
 You need to know: Javascript
 
 ## Pre-requisites
