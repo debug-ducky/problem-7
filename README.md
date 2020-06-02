@@ -6,5 +6,5 @@ You need to know: Javascript
 1. `node .`
 
 ## Expected Output
-1. Should print an output [ [ 1, 1, 1 ], [ 1, 1, 1 ], [ 1, 1, 1 ], [ 1, 1, 1 ], [ 1 ] ]
+1. Should print an output 16
 
